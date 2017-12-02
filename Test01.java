@@ -1,8 +1,8 @@
-package com.dong.test1201;
+ï»¿package com.dong.test1201;
 
 public class Test01 {
 
-	/**²âÊÔÊ¹ÓÃGitHub£¬ÉÏ´«¸ü¸Ä
+	/**æµ‹è¯•ä½¿ç”¨GitHubï¼Œä¸Šä¼ æ›´æ”¹
 	 * @param args
 	 */
 	public static void main(String[] args) {
